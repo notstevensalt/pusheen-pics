@@ -1,5 +1,5 @@
 # [Pusheen!](http://stevenrstuff.bitballoon.com/blog/2017/09/03/pusheen/)
-Pics for the app Pusheen!
+Pics for the app Pusheen!:D
 
 ## Github Steps:
 1. Find a pic you like that isn't on the app.
